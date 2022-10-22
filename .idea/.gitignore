@@ -1,0 +1,15 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.iml
+/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.main.iml
+/modules/Code Sharing Platform/task/Code_Sharing_Platform.Code_Sharing_Platform-task.test.iml
+/modules/Code_Sharing_Platform.iml
+/modules/util/Code_Sharing_Platform.util.iml
+/modules/util/Code_Sharing_Platform.util.main.iml
+/modules/util/Code_Sharing_Platform.util.test.iml
