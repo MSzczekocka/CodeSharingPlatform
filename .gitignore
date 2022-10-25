@@ -113,3 +113,82 @@
 /Code Sharing Platform/Super secret snippets/task-remote-info.yaml
 /Code Sharing Platform/Work with the database/task-remote-info.yaml
 /.idea/vcs.xml
+/Code Sharing Platform/task/out/production/resources/application.properties
+/Code Sharing Platform/task/out/production/classes/platform/entity/Code.class
+/Code Sharing Platform/task/out/production/classes/platform/controller/CodeController.class
+/Code Sharing Platform/task/out/production/classes/platform/exceptions/CodeNotFoundException.class
+/Code Sharing Platform/task/out/production/classes/platform/repository/CodeRepository.class
+/Code Sharing Platform/task/out/production/classes/platform/service/CodeService.class
+/Code Sharing Platform/task/out/production/classes/platform/CodeSharingPlatform.class
+/Code Sharing Platform/task/out/production/resources/data.sql
+/.gradle/7.3.3/executionHistory/executionHistory.bin
+/.gradle/7.3.3/fileHashes/fileHashes.bin
+/.idea/libraries/Gradle__antlr_antlr_2_7_7.xml
+/.idea/libraries/Gradle__com_fasterxml_classmate_1_5_1.xml
+/.idea/libraries/Gradle__com_h2database_h2_1_4_200.xml
+/.idea/libraries/Gradle__com_sun_activation_jakarta_activation_1_2_2.xml
+/.idea/libraries/Gradle__com_sun_istack_istack_commons_runtime_3_0_12.xml
+/.idea/libraries/Gradle__com_zaxxer_HikariCP_4_0_3.xml
+/.idea/libraries/Gradle__jakarta_persistence_jakarta_persistence_api_2_2_3.xml
+/.idea/libraries/Gradle__jakarta_transaction_jakarta_transaction_api_1_3_3.xml
+/.idea/libraries/Gradle__jakarta_validation_jakarta_validation_api_2_0_2.xml
+/.idea/libraries/Gradle__jakarta_xml_bind_jakarta_xml_bind_api_2_3_3.xml
+/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_10_22.xml
+/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_9_7.xml
+/.idea/libraries/Gradle__org_dom4j_dom4j_2_1_3.xml
+/.idea/libraries/Gradle__org_glassfish_jaxb_jaxb_runtime_2_3_5.xml
+/.idea/libraries/Gradle__org_glassfish_jaxb_txw2_2_3_5.xml
+/.idea/libraries/Gradle__org_hibernate_common_hibernate_commons_annotations_5_1_2_Final.xml
+/.idea/libraries/Gradle__org_hibernate_hibernate_core_5_4_32_Final.xml
+/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_2_0_Final.xml
+/.idea/libraries/Gradle__org_javassist_javassist_3_27_0_GA.xml
+/.idea/libraries/Gradle__org_jboss_jandex_2_2_3_Final.xml
+/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_4_2_Final.xml
+/.idea/libraries/Gradle__org_projectlombok_lombok_1_18_24.xml
+/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_aop_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_jpa_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jdbc_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_data_spring_data_jpa_2_5_6.xml
+/.idea/libraries/Gradle__org_springframework_spring_aspects_5_3_12.xml
+/.idea/libraries/Gradle__org_springframework_spring_jdbc_5_3_12.xml
+/.idea/libraries/Gradle__org_springframework_spring_orm_5_3_12.xml
+/.idea/libraries/Gradle__org_springframework_spring_tx_5_3_12.xml
+/.idea/jpa-buddy.xml
+/.gradle/buildOutputCleanup/outputFiles.bin
+/.idea/sqldialects.xml
+/.idea/uiDesigner.xml
+/.idea/runConfigurations/data_sql.xml
+/.idea/libraries/Gradle__org_attoparser_attoparser_2_0_5_RELEASE.xml
+/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_thymeleaf_2_7_5.xml
+/.idea/libraries/Gradle__org_springframework_spring_context_5_3_23.xml
+/.idea/libraries/Gradle__org_springframework_spring_web_5_3_23.xml
+/.idea/libraries/Gradle__org_thymeleaf_extras_thymeleaf_extras_java8time_3_0_4_RELEASE.xml
+/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_3_0_12_RELEASE.xml
+/.idea/libraries/Gradle__org_thymeleaf_thymeleaf_spring5_3_0_12_RELEASE.xml
+/.idea/libraries/Gradle__org_unbescape_unbescape_1_1_6_RELEASE.xml
+/Code Sharing Platform/task/out/production/resources/templates/index.html
+/Code Sharing Platform/task/out/production/classes/platform/controller/CodeRestController.class
+/Code Sharing Platform/task/build/classes/java/main/platform/CodeSharingPlatform.class
+/Code Sharing Platform/task/build/resources/main/application.properties
+/Code Sharing Platform/task/build/reports/tests/test/css/base-style.css
+/Code Sharing Platform/code_db.mv.db
+/Code Sharing Platform/task/build/classes/java/test/CodeSharingPlatformTest.class
+/Code Sharing Platform/task/build/reports/tests/test/classes/CodeSharingPlatformTest.html
+/Code Sharing Platform/task/build/reports/tests/test/packages/default-package.html
+/.gradle/file-system.probe
+/Code Sharing Platform/task/build/reports/tests/test/index.html
+/Code Sharing Platform/task/build/resources/main/templates/index.html
+/Code Sharing Platform/task/build/tmp/test/jar_extract_3211287153345956219_tmp
+/Code Sharing Platform/task/build/tmp/test/jar_extract_6282444974563094144_tmp
+/Code Sharing Platform/task/build/tmp/test/jar_extract_10885925972132477880_tmp
+/Code Sharing Platform/task/build/tmp/test/jar_extract_18249984016783171025_tmp
+/Code Sharing Platform/task/build/test-results/test/binary/output.bin
+/Code Sharing Platform/task/build/test-results/test/binary/output.bin.idx
+/Code Sharing Platform/task/build/tmp/compileTestJava/previous-compilation-data.bin
+/Code Sharing Platform/task/build/reports/tests/test/js/report.js
+/.gradle/7.3.3/fileHashes/resourceHashesCache.bin
+/Code Sharing Platform/task/build/test-results/test/binary/results.bin
+/Code Sharing Platform/task/build/reports/tests/test/css/style.css
+/Code Sharing Platform/task/build/test-results/test/TEST-CodeSharingPlatformTest.xml
