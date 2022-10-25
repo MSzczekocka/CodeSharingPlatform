@@ -1,31 +1,14 @@
 package platform.controller;
 
-import lombok.RequiredArgsConstructor;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
-import platform.entity.Code;
-import platform.service.CodeService;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
 
-@RestController
-@RequiredArgsConstructor
+@Controller
 public class CodeController {
 
-    private final CodeService codeService;
-
-    @GetMapping("/code")
-    public String getHtmlCode() {
-        return "Not implemented yet";
+    @RequestMapping(value = "/code", produces = "text/html")
+    public static String getHtmlCode() {
+        return "index";
     }
-
-
-    @GetMapping("/api/code")
-    public Code getJsonCode() {
-        Code newCode = new Code(1, "public static void main(String[] args) {" + '\n' +
-                "    SpringApplication.run(CodeSharingPlatform.class, args);" + '\n' +
-                "}");
-        codeService.addCode(newCode);
-        return codeService.getCodeById(1L);
-    }
-
 
 }

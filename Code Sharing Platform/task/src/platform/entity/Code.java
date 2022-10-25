@@ -26,4 +26,11 @@ public class Code {
     @NotBlank
     @Column(name = "code_content")
     private String code;
+
+
+    public Code(Long id, String code) {
+        this.id = id;
+        this.code = code;
+    }
+
 }
